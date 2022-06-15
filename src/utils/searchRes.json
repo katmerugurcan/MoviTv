@@ -1,0 +1,382 @@
+{
+    "page": 1,
+    "results": [],
+    "total_pages": 0,
+    "total_results": 0
+}
+[
+    {
+        "adult": false,
+        "backdrop_path": "/1Ds7xy7ILo8u2WWxdnkJth1jQVT.jpg",
+        "genre_ids": [
+            28,
+            12,
+            35
+        ],
+        "id": 752623,
+        "original_language": "en",
+        "original_title": "The Lost City",
+        "overview": "A reclusive romance novelist was sure nothing could be worse than getting stuck on a book tour with her cover model until a kidnapping attempt sweeps them both into a cutthroat jungle adventure, proving life can be so much stranger, and more romantic, than any of her paperback fictions.",
+        "popularity": 3404.802,
+        "poster_path": "/neMZH82Stu91d3iqvLdNQfqPPyl.jpg",
+        "release_date": "2022-03-24",
+        "title": "The Lost City",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 1069
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/61sbyO47yIpsMFyLhY1MWcqjg1Q.jpg",
+        "genre_ids": [
+            12,
+            35,
+            10751,
+            14
+        ],
+        "id": 499701,
+        "original_language": "en",
+        "original_title": "Dora and the Lost City of Gold",
+        "overview": "Dora, a girl who has spent most of her life exploring the jungle with her parents, now must navigate her most dangerous adventure yet: high school. Always the explorer, Dora quickly finds herself leading Boots (her best friend, a monkey), Diego, and a rag tag group of teens on an adventure to save her parents and solve the impossible mystery behind a lost Inca civilization.",
+        "popularity": 37.141,
+        "poster_path": "/xvYCZ740XvngXK0FNeSNVTJJJ5v.jpg",
+        "release_date": "2019-08-08",
+        "title": "Dora and the Lost City of Gold",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 1403
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/qyAH7xkrgYCGPbaFV29C82Hngum.jpg",
+        "genre_ids": [
+            12,
+            18,
+            36
+        ],
+        "id": 314095,
+        "original_language": "en",
+        "original_title": "The Lost City of Z",
+        "overview": "A true-life drama in the 1920s, centering on British explorer Col. Percy Fawcett, who discovered evidence of a previously unknown, advanced civilization in the Amazon and disappeared whilst searching for it.",
+        "popularity": 21.89,
+        "poster_path": "/ik3ebv7J18fs6cHkmu91oxz7EGt.jpg",
+        "release_date": "2017-03-15",
+        "title": "The Lost City of Z",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 2382
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/4PnsKLoZBnv25r55aYyUEYG8bFw.jpg",
+        "genre_ids": [
+            18,
+            10749
+        ],
+        "id": 9700,
+        "original_language": "en",
+        "original_title": "The Lost City",
+        "overview": "In Havana, Cuba in the late 1950's, a wealthy family, one of whose sons is a prominent nightclub owner, is caught in the violent transition from the oppressive regime of Batista to the Marxist government of Fidel Castro. Castro's regime ultimately leads the nightclub owner to flee to New York.",
+        "popularity": 8.851,
+        "poster_path": "/v19DsrJb0TJxTCdgaUzzuvOjfeD.jpg",
+        "release_date": "2005-09-03",
+        "title": "The Lost City",
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 75
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/p5d8u37jA4YghZJfh591fbvIs0F.jpg",
+        "genre_ids": [
+            12,
+            28,
+            53,
+            878
+        ],
+        "id": 31201,
+        "original_language": "fr",
+        "original_title": "Lost City Raiders",
+        "overview": "The year is 2048, and global warming has flooded much of Earth's land areas. A father and his two sons try to salvage treasures from sunken buildings when they are given an important assignment by the New Vatican.",
+        "popularity": 5.698,
+        "poster_path": "/v6tBlrlrPEaCPxfJ8zK44CaQy5C.jpg",
+        "release_date": "2008-10-31",
+        "title": "Lost City Raiders",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 57
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/seBLWU1Zf6hr1Y7THEiunUYU5Ab.jpg",
+        "genre_ids": [
+            12
+        ],
+        "id": 38618,
+        "original_language": "en",
+        "original_title": "Tarzan and the Lost City",
+        "overview": "Tarzan returns to his homeland of Africa to save his home from destruction.",
+        "popularity": 6.507,
+        "poster_path": "/kp4gfmC7O10lAuBCDn1cbnPdudU.jpg",
+        "release_date": "1998-04-24",
+        "title": "Tarzan and the Lost City",
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 28
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/aYTJQGWsmt0W2IriiAhObusx41C.jpg",
+        "genre_ids": [
+            12,
+            28,
+            35
+        ],
+        "id": 9710,
+        "original_language": "en",
+        "original_title": "Allan Quatermain and the Lost City of Gold",
+        "overview": "After his brother Robeson disappears without a trace while exploring Africa in search of a legendary 'white tribe', Allan Quatermain decides to follow in his footsteps to learn what became of him. Soon after arriving, he discovers the Lost City of Gold, controlled by the evil lord Agon, and mined by his legions of white slaves.",
+        "popularity": 10.308,
+        "poster_path": "/fz9QrK7OF4EoQbdSO8KSPgJWiZB.jpg",
+        "release_date": "1986-12-17",
+        "title": "Allan Quatermain and the Lost City of Gold",
+        "video": false,
+        "vote_average": 4.8,
+        "vote_count": 202
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/ewromC3itbjwtNWEll5Y3CrB1Gu.jpg",
+        "genre_ids": [
+            12,
+            35
+        ],
+        "id": 171571,
+        "original_language": "en",
+        "original_title": "Jane and the Lost City",
+        "overview": "Jane and the Colonel must journey to Africa to the lost city to retrieve the diamonds before the Nazis do. Comedy  based on the popular wartime comic strip.",
+        "popularity": 3.053,
+        "poster_path": "/5WvLzzzT65UWeUF6VasyU6AKf8p.jpg",
+        "release_date": "1987-09-03",
+        "title": "Jane and the Lost City",
+        "video": false,
+        "vote_average": 4.7,
+        "vote_count": 11
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 471268,
+        "original_language": "en",
+        "original_title": "The Lost City of Cecil B. DeMille",
+        "overview": "Filmmaker Peter Brosnan digs up the set of the 1923 film 'The Ten Commandments', long buried in the sands of California's Central Coast.",
+        "popularity": 3.87,
+        "poster_path": "/z7zcxJcypTSIG1QqJI52ljitW2j.jpg",
+        "release_date": "2016-02-11",
+        "title": "The Lost City of Cecil B. DeMille",
+        "video": false,
+        "vote_average": 3.5,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 827125,
+        "original_language": "en",
+        "original_title": "Revealed: Cleopatra's Lost City",
+        "overview": "The results of a three-decade investigation to uncover one of ancient Egypt’s greatest lost cities, Canopus, which for centuries had been lost beneath the waves. It’s a city connected with Cleopatra, as well as with four great ancient civilisations. It’s a story that starts 10 miles off the Egyptian coast at Alexandria.",
+        "popularity": 1.143,
+        "poster_path": null,
+        "release_date": "2021-05-07",
+        "title": "Revealed: Cleopatra's Lost City",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/1mqWbjZiKtIDB2fvGGStWeSXKeq.jpg",
+        "genre_ids": [
+            12
+        ],
+        "id": 753256,
+        "original_language": "en",
+        "original_title": "The Lost City",
+        "overview": "This 15-chapter serial was produced by Colonel William N. Selig, the former mogul whose large assortment of wild animals became the nucleus of today's Los Angeles Zoo. Selig's ferocious fauna added authenticity to a story about yet another white goddess, Princess Elyata of Tirzah (Juanita Hansen), who comes to the rescue of Stanley Morton (George Chesebro) and his sidekick Mike Donovan (Frank Clark), a couple of Americans who foolishly wander into a village ruled by slave trader Gagga (Hector Dion).",
+        "popularity": 1.4,
+        "poster_path": "/1N8c5huZUdTALmS2NxPLLqr06Mc.jpg",
+        "release_date": "1920-01-02",
+        "title": "The Lost City",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/b7fwURiItNhrbmOgcWO6vBf3hIX.jpg",
+        "genre_ids": [
+            878
+        ],
+        "id": 45369,
+        "original_language": "en",
+        "original_title": "The Lost City",
+        "overview": "An evil scientist invents a earthquake machine and plots to take over the world from his base in Africa.",
+        "popularity": 1.036,
+        "poster_path": "/aHJCxCe2T0Hr9tFD5Jd9RGwJByc.jpg",
+        "release_date": "1935-03-06",
+        "title": "The Lost City",
+        "video": false,
+        "vote_average": 5.1,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/8azQsB9nKs3xnyJMT2iXw5MCYBL.jpg",
+        "genre_ids": [
+            99,
+            36
+        ],
+        "id": 713584,
+        "original_language": "en",
+        "original_title": "The Lost City Of Machu Picchu",
+        "overview": "An investigation into the mysterious people who built Machu Picchu, the 15th-century Inca citadel located in southern Peru.",
+        "popularity": 2.514,
+        "poster_path": "/sP39SR165WqOwHYjhFBeWaxR8wy.jpg",
+        "release_date": "2019-01-01",
+        "title": "The Lost City Of Machu Picchu",
+        "video": false,
+        "vote_average": 7,
+        "vote_count": 3
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            12
+        ],
+        "id": 185338,
+        "original_language": "de",
+        "original_title": "Journey to the Lost City",
+        "overview": "An exotic dancing girl of India inflames the passions of a traveling draftsman.",
+        "popularity": 1.902,
+        "poster_path": "/eimqJcwwMzR8zaVi2PZgRBlHfwx.jpg",
+        "release_date": "1960-10-01",
+        "title": "Journey to the Lost City",
+        "video": false,
+        "vote_average": 7,
+        "vote_count": 4
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xEfMwUeOtkh12axymUxGYLqicaS.jpg",
+        "genre_ids": [
+            28,
+            12,
+            37
+        ],
+        "id": 108267,
+        "original_language": "en",
+        "original_title": "The Lone Ranger and the Lost City of Gold",
+        "overview": "Three Indians were brutally murdered by a gang of hooded outlaws. Each one possessed a silver medallion, which were sections cut off from a large silver plaque which served as a treasure map to a secret location where a large amount of gold is reputedly stashed. Two more medallions are unaccounted for, and the The Lone Ranger and his friend Tonto must use all their resources to intercept the gang, prevent further carnage and save the owners of the medallions.",
+        "popularity": 2.837,
+        "poster_path": "/jJU63mfIrvV0Kd4pKXVZGuxxYq6.jpg",
+        "release_date": "1958-01-01",
+        "title": "The Lone Ranger and the Lost City of Gold",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 14
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 709752,
+        "original_language": "en",
+        "original_title": "Lost City",
+        "overview": "When a pizza-loving Nigerian tourist gets lost on his way to see a comedy show, his night takes several unexpected turns.",
+        "popularity": 0.6,
+        "poster_path": null,
+        "release_date": "2019-01-01",
+        "title": "Lost City",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/xEmj0InAFFTVyhBu7kqZdWvtcoT.jpg",
+        "genre_ids": [
+            28,
+            12
+        ],
+        "id": 211820,
+        "original_language": "en",
+        "original_title": "Lost City of the Jungle",
+        "overview": "A movie serial in 13 chapters, and Lionel Atwill's final film:  Following the end of WWII, war-monger Sir Eric Hazarias sets the wheel in motion for WWIII. His search for Meteorium 245, the only practical defence against the atomic bomb, leads him to mythical Pendrang. Obstructing his sinister plan to rule the world are Rod Stanton, United Peace Foundation investigator, Tal Shan , Pendrang native, and Marjorie Elmore, daughter of scientist Dr. Elmore, unwilling assistant to Sir Eric.",
+        "popularity": 1.396,
+        "poster_path": "/iYfYDNpZwqY8OdLO4zWynZAeZjn.jpg",
+        "release_date": "1946-04-23",
+        "title": "Lost City of the Jungle",
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 648152,
+        "original_language": "en",
+        "original_title": "The Lost City",
+        "overview": "First of four feature versions of the same-title, same-year serial, consisting of the first three episodes, part of the fourth, and concluding footage not seen in the serial.",
+        "popularity": 0.6,
+        "poster_path": null,
+        "release_date": "1935-02-01",
+        "title": "The Lost City",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "/2nOafLkDlULJXho8dBGheYlnCMX.jpg",
+        "genre_ids": [
+            99
+        ],
+        "id": 561066,
+        "original_language": "en",
+        "original_title": "The Lost City of the Monkey God",
+        "overview": "The search for The Lost City of the Monkey God follows explorer Steve Elkins and a team of archaeologists, anthropologists, scientists and filmmakers in this true-life adventure as they overcome torrential rains, dense jungles, poisonous reptiles and deadly disease carrying flies to search one of the last unexplored places on Earth for a lost Maya city. Using cutting edge laser technology, they can \"see\" the city hidden in the impenetrable jungle and with the support of the president of Honduras and his army they are able to save the found city from certain destruction and looting and properly excavate and preserve their discovery and begin to solve the mysteries of the lost city.",
+        "popularity": 1.486,
+        "poster_path": "/dPeRBEIUBcoUtBCecdI6k6rMCbi.jpg",
+        "release_date": "2018-10-08",
+        "title": "The Lost City of the Monkey God",
+        "video": false,
+        "vote_average": 7,
+        "vote_count": 1
+    },
+    {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+            99
+        ],
+        "id": 279644,
+        "original_language": "hu",
+        "original_title": "The Pharaoh's Lost City",
+        "overview": "",
+        "popularity": 0.6,
+        "poster_path": null,
+        "release_date": "2008-01-26",
+        "title": "The Pharaoh's Lost City",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+    }
+]
